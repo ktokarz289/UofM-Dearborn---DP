@@ -1,0 +1,13 @@
+C:\Users\kristopher.tokarz\documents\visual studio 2010\Projects\designPatterns2\designPatterns2\bin\Debug\designPatterns2.exe
+C:\Users\kristopher.tokarz\documents\visual studio 2010\Projects\designPatterns2\designPatterns2\bin\Debug\designPatterns2.pdb
+C:\Users\kristopher.tokarz\documents\visual studio 2010\Projects\designPatterns2\designPatterns2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kristopher.tokarz\documents\visual studio 2010\Projects\designPatterns2\designPatterns2\obj\x86\Debug\designPatterns2.Form1.resources
+C:\Users\kristopher.tokarz\documents\visual studio 2010\Projects\designPatterns2\designPatterns2\obj\x86\Debug\designPatterns2.Properties.Resources.resources
+C:\Users\kristopher.tokarz\documents\visual studio 2010\Projects\designPatterns2\designPatterns2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kristopher.tokarz\documents\visual studio 2010\Projects\designPatterns2\designPatterns2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\kristopher.tokarz\documents\visual studio 2010\Projects\designPatterns2\designPatterns2\obj\x86\Debug\designPatterns2.exe
+C:\Users\kristopher.tokarz\documents\visual studio 2010\Projects\designPatterns2\designPatterns2\obj\x86\Debug\designPatterns2.pdb
+C:\Users\kristopher.tokarz\Desktop\DP_Project2\designPatterns2\designPatterns2\obj\x86\Debug\designPatterns2.exe
+C:\Users\kristopher.tokarz\Desktop\DP_Project2\designPatterns2\designPatterns2\obj\x86\Debug\designPatterns2.pdb
+C:\Users\kjtok\Downloads\DP_Project2\DP_Project2\designPatterns2\designPatterns2\obj\x86\Debug\designPatterns2.exe
+C:\Users\kjtok\Downloads\DP_Project2\DP_Project2\designPatterns2\designPatterns2\obj\x86\Debug\designPatterns2.pdb
